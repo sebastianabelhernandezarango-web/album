@@ -1,7 +1,7 @@
 import { useState } from "react";
 import type { ChromoData } from "../data/cromos";
 
-import "../css/App.css";
+
 
 
 interface Props {

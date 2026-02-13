@@ -1,4 +1,4 @@
-import "../src/css/App.css";
+import "./css/App.css";
 import Chromo from "../src/components/cromo";
 import { chromos } from "../src/data/cromos";
 
