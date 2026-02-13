@@ -1,0 +1,8 @@
+Comandos importantes
+
+Configuracion Ambiente
+-----> 
+crear un proyecto con vite -------> npm create vite
+
+-----
+ejecutar y abrir la app---------->npm run dev /// ctrl + c para cancelarlo
